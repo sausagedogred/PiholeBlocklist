@@ -1,4 +1,4 @@
-# Pihole-Blocklist
+# PiholeBlocklist
 www.google.com
 ssl.gstatic.com
 www.gstatic.com
