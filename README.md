@@ -1,5 +1,4 @@
 # PiholeBlocklist
-www.google.com
 ssl.gstatic.com
 www.gstatic.com
 consent.google.com
@@ -146,7 +145,6 @@ srv-2019-08-02-06.config.parsely.com
 t.co
 experience.tinypass.com
 stats.g.doubleclick.net
-www.google.co.uk
 c1.adform.net
 consent-pref.trustarc.com
 a1.seadform.net
@@ -246,7 +244,6 @@ firebog.net
 assets-cdn.github.com
 lh5.googleusercontent.com
 geo2.ggpht.com
-www.chad.co.uk
 libs.de.coremetrics.com
 nexus.ensighten.com
 images.johnstonpress.co.uk
@@ -282,7 +279,6 @@ r.skimresources.com
 ampcid.google.com
 collector.brandmetrics.com
 polarcdn-terrax.com
-www.youtube.com
 staticmap.secure.ownlocal.com
 api.skimlinks.mgr.consensu.org
 static.criteo.net
